@@ -44,6 +44,7 @@ alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" targ
 #### You can also find me on- 
 
 [<img align="left" alt="rakesh | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="rakesh | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="rakesh | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="rakesh | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 
@@ -54,6 +55,7 @@ alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" targ
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/rakesh-pal-494a8b128/
+[twitter]: https://twitter.com/RakeshpUcer5
 [Instagram]: https://www.instagram.com/raka771591
 [YouTube]: https://www.youtube.com/channel/UCry9m2ldPdjTK82FWF0gzdw
 
