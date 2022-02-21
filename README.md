@@ -39,7 +39,12 @@ alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" targ
 <a href="https://scikit-learn.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com" target="_blank">
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.docker.com" target="_blank">
+<img src="https://img.icons8.com/fluency/50/000000/docker.png" alt="docker" width="40" height="40"/></a></p>
+
 
 
 #### You can also find me on- 
