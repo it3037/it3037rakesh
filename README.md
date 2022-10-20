@@ -5,6 +5,7 @@
 * Computer vision 
 * Natural Language Processing 
 * Machine Learning
+* Deep Learning
 * Statistics
 
 
